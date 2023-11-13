@@ -11,3 +11,7 @@ Do the following to Complete this assignment:
 4. Now click the green 'commit changes' button at the bottom. OKAY!
 
 5. Done! Thank you Github.
+
+6. I love computer science, it is very fun and entertaining. 
+
+7. I'm not going to delete anything just yet, in case we need to come back to it. 
